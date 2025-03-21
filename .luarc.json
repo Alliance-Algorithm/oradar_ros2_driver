@@ -1,0 +1,10 @@
+{
+    "diagnostics.globals": [
+        "include",
+        "options",
+        "TRAJECTORY_BUILDER_2D",
+        "MAP_BUILDER",
+        "TRAJECTORY_BUILDER",
+        "POSE_GRAPH"
+    ]
+}
